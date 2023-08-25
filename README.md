@@ -1,1 +1,1 @@
-# DropOut-Technique
+# DropOut-Function
